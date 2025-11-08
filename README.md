@@ -1,0 +1,2 @@
+OpenSSL & NTL library
+Windows
