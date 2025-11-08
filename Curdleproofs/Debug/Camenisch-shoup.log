@@ -1,0 +1,99 @@
+﻿  test.cpp
+D:\postgraduate File\Codes_backup\CS_encryption&DOPRF\test.cpp(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\postgraduate File\Codes_backup\CS_encryption&DOPRF\global.hpp(63,5): warning C4996: 'EC_GROUP_precompute_mult': Since OpenSSL 3.0
+D:\postgraduate File\Codes_backup\CS_encryption&DOPRF\hash.hpp(26,5): warning C4996: 'SHA256_Init': Since OpenSSL 3.0
+D:\postgraduate File\Codes_backup\CS_encryption&DOPRF\print.hpp(67,24): warning C4018: “<”: 有符号/无符号不匹配
+D:\postgraduate File\Codes_backup\CS_encryption&DOPRF\print.hpp(79,24): warning C4018: “<”: 有符号/无符号不匹配
+D:\postgraduate File\Codes_backup\CS_encryption&DOPRF\routines.hpp(24,24): warning C4018: “<”: 有符号/无符号不匹配
+D:\postgraduate File\Codes_backup\CS_encryption&DOPRF\routines.hpp(32,24): warning C4018: “<”: 有符号/无符号不匹配
+D:\postgraduate File\Codes_backup\CS_encryption&DOPRF\routines.hpp(39,24): warning C4018: “<”: 有符号/无符号不匹配
+D:\postgraduate File\Codes_backup\CS_encryption&DOPRF\routines.hpp(50,28): warning C4018: “<”: 有符号/无符号不匹配
+D:\postgraduate File\Codes_backup\CS_encryption&DOPRF\routines.hpp(74,24): warning C4018: “<”: 有符号/无符号不匹配
+D:\postgraduate File\Codes_backup\CS_encryption&DOPRF\routines.hpp(98,24): warning C4018: “<”: 有符号/无符号不匹配
+D:\postgraduate File\Codes_backup\CS_encryption&DOPRF\routines.hpp(106,24): warning C4018: “<”: 有符号/无符号不匹配
+D:\postgraduate File\Codes_backup\CS_encryption&DOPRF\routines.hpp(114,24): warning C4018: “<”: 有符号/无符号不匹配
+D:\postgraduate File\Codes_backup\CS_encryption&DOPRF\routines.hpp(129,28): warning C4018: “<”: 有符号/无符号不匹配
+D:\postgraduate File\Codes_backup\CS_encryption&DOPRF\routines.hpp(156,24): warning C4018: “<”: 有符号/无符号不匹配
+D:\postgraduate File\Codes_backup\CS_encryption&DOPRF\routines.hpp(167,24): warning C4018: “<”: 有符号/无符号不匹配
+D:\postgraduate File\Codes_backup\CS_encryption&DOPRF\routines.hpp(236,31): warning C4244: “参数”: 从“uint64_t”转换到“int”，可能丢失数据
+D:\postgraduate File\Codes_backup\CS_encryption&DOPRF\routines.hpp(257,23): warning C4018: “<=”: 有符号/无符号不匹配
+D:\postgraduate File\Codes_backup\CS_encryption&DOPRF\routines.hpp(264,23): warning C4018: “<”: 有符号/无符号不匹配
+D:\postgraduate File\Codes_backup\CS_encryption&DOPRF\routines.hpp(265,31): warning C4334: “<<”: 32 位移位的结果被隐式转换为 64 位(是否希望进行 64 位移位?)
+D:\postgraduate File\Codes_backup\CS_encryption&DOPRF\routines.hpp(270,27): warning C4018: “<”: 有符号/无符号不匹配
+D:\postgraduate File\Codes_backup\CS_encryption&DOPRF\routines.hpp(307,23): warning C4018: “<”: 有符号/无符号不匹配
+D:\postgraduate File\Codes_backup\CS_encryption&DOPRF\routines.hpp(309,74): warning C4244: “参数”: 从“_Ty”转换到“const unsigned int”，可能丢失数据
+          with
+          [
+              _Ty=uint64_t
+          ]
+D:\postgraduate File\Codes_backup\CS_encryption&DOPRF\calculate_dlog.hpp(32,29): warning C4244: “初始化”: 从“double”转换到“uint64_t”，可能丢失数据
+D:\postgraduate File\Codes_backup\CS_encryption&DOPRF\calculate_dlog.hpp(36,62): warning C4244: “初始化”: 从“uint64_t”转换到“unsigned int”，可能丢失数据
+D:\postgraduate File\Codes_backup\CS_encryption&DOPRF\calculate_dlog.hpp(75,29): warning C4244: “初始化”: 从“double”转换到“uint64_t”，可能丢失数据
+D:\postgraduate File\Codes_backup\CS_encryption&DOPRF\calculate_dlog.hpp(77,62): warning C4244: “初始化”: 从“uint64_t”转换到“unsigned int”，可能丢失数据
+D:\postgraduate File\Codes_backup\CS_encryption&DOPRF\calculate_dlog.hpp(92,21): warning C4244: “初始化”: 从“std::streamoff”转换到“size_t”，可能丢失数据
+D:\postgraduate File\Codes_backup\CS_encryption&DOPRF\calculate_dlog.hpp(124,29): warning C4244: “初始化”: 从“double”转换到“uint64_t”，可能丢失数据
+D:\postgraduate File\Codes_backup\CS_encryption&DOPRF\calculate_dlog.hpp(125,23): warning C4244: “初始化”: 从“double”转换到“uint64_t”，可能丢失数据
+D:\postgraduate File\Codes_backup\CS_encryption&DOPRF\calculate_dlog.hpp(130,36): warning C4244: “参数”: 从“uint64_t”转换到“unsigned int”，可能丢失数据
+D:\postgraduate File\Codes_backup\CS_encryption&DOPRF\calculate_dlog.hpp(149,56): warning C4244: “初始化”: 从“uint64_t”转换到“unsigned int”，可能丢失数据
+D:\postgraduate File\Codes_backup\CS_encryption&DOPRF\calculate_dlog.hpp(179,52): warning C4244: “参数”: 从“uint64_t”转换到“unsigned int”，可能丢失数据
+D:\postgraduate File\Codes_backup\CS_encryption&DOPRF\calculate_dlog.hpp(180,52): warning C4244: “参数”: 从“uint64_t”转换到“unsigned int”，可能丢失数据
+D:\postgraduate File\Codes_backup\CS_encryption&DOPRF\calculate_dlog.hpp(223,29): warning C4244: “初始化”: 从“double”转换到“uint64_t”，可能丢失数据
+D:\postgraduate File\Codes_backup\CS_encryption&DOPRF\calculate_dlog.hpp(234,38): warning C4244: “参数”: 从“uint64_t”转换到“const unsigned int”，可能丢失数据
+D:\postgraduate File\Codes_backup\CS_encryption&DOPRF\calculate_dlog.hpp(235,33): warning C4244: “参数”: 从“uint64_t”转换到“const unsigned int”，可能丢失数据
+D:\postgraduate File\Codes_backup\CS_encryption&DOPRF\calculate_dlog.hpp(239,43): warning C4244: “参数”: 从“_Ty”转换到“unsigned int”，可能丢失数据
+          with
+          [
+              _Ty=uint64_t
+          ]
+D:\postgraduate File\Codes_backup\CS_encryption&DOPRF\calculate_dlog.hpp(243,62): warning C4244: “初始化”: 从“uint64_t”转换到“unsigned int”，可能丢失数据
+D:\postgraduate File\Codes_backup\CS_encryption&DOPRF\calculate_dlog.hpp(290,63): warning C4244: “初始化”: 从“uint64_t”转换到“unsigned int”，可能丢失数据
+D:\postgraduate File\Codes_backup\CS_encryption&DOPRF\calculate_dlog.hpp(325,29): warning C4244: “初始化”: 从“double”转换到“uint64_t”，可能丢失数据
+D:\postgraduate File\Codes_backup\CS_encryption&DOPRF\calculate_dlog.hpp(326,23): warning C4244: “初始化”: 从“double”转换到“uint64_t”，可能丢失数据
+D:\postgraduate File\Codes_backup\CS_encryption&DOPRF\calculate_dlog.hpp(331,36): warning C4244: “参数”: 从“uint64_t”转换到“unsigned int”，可能丢失数据
+D:\postgraduate File\Codes_backup\CS_encryption&DOPRF\calculate_dlog.hpp(342,37): warning C4244: “参数”: 从“uint64_t”转换到“unsigned int”，可能丢失数据
+D:\postgraduate File\Codes_backup\CS_encryption&DOPRF\calculate_dlog.hpp(348,30): warning C4244: “参数”: 从“uint64_t”转换到“const unsigned int”，可能丢失数据
+D:\postgraduate File\Codes_backup\CS_encryption&DOPRF\calculate_dlog.hpp(349,30): warning C4244: “参数”: 从“uint64_t”转换到“const unsigned int”，可能丢失数据
+D:\postgraduate File\Codes_backup\CS_encryption&DOPRF\calculate_dlog.hpp(352,39): warning C4244: “参数”: 从“uint64_t”转换到“const unsigned int”，可能丢失数据
+D:\postgraduate File\Codes_backup\CS_encryption&DOPRF\calculate_dlog.hpp(362,25): warning C4244: “参数”: 从“uint64_t”转换到“const unsigned int”，可能丢失数据
+D:\postgraduate File\Codes_backup\CS_encryption&DOPRF\calculate_dlog.hpp(391,40): warning C4244: “参数”: 从“_Ty”转换到“unsigned int”，可能丢失数据
+          with
+          [
+              _Ty=uint64_t
+          ]
+D:\postgraduate File\Codes_backup\CS_encryption&DOPRF\calculate_dlog.hpp(392,42): warning C4244: “参数”: 从“_Ty”转换到“unsigned int”，可能丢失数据
+          with
+          [
+              _Ty=uint64_t
+          ]
+D:\NTL\WinNTL-11_5_1\include\NTL\lip.h(399,40): warning C4146: 一元负运算符应用于无符号类型，结果仍为无符号类型
+D:\postgraduate File\Codes_backup\CS_encryption&DOPRF\DOPRF.hpp(28,9): warning C4996: 'SHA256_Init': Since OpenSSL 3.0
+D:\postgraduate File\Codes_backup\CS_encryption&DOPRF\DOPRF.hpp(29,9): warning C4996: 'SHA256_Update': Since OpenSSL 3.0
+D:\postgraduate File\Codes_backup\CS_encryption&DOPRF\DOPRF.hpp(30,9): warning C4996: 'SHA256_Final': Since OpenSSL 3.0
+D:\postgraduate File\Codes_backup\CS_encryption&DOPRF\DOPRF.hpp(135,27): warning C4018: “<”: 有符号/无符号不匹配
+D:\postgraduate File\Codes_backup\CS_encryption&DOPRF\DOPRF.hpp(162,27): warning C4018: “<”: 有符号/无符号不匹配
+D:\postgraduate File\Codes_backup\CS_encryption&DOPRF\DOPRF.hpp(462,23): warning C4018: “<”: 有符号/无符号不匹配
+D:\postgraduate File\Codes_backup\CS_encryption&DOPRF\DOPRF.hpp(475,23): warning C4018: “<”: 有符号/无符号不匹配
+D:\postgraduate File\Codes_backup\CS_encryption&DOPRF\DOPRF.hpp(488,23): warning C4018: “<”: 有符号/无符号不匹配
+D:\postgraduate File\Codes_backup\CS_encryption&DOPRF\DOPRF.hpp(500,23): warning C4018: “<”: 有符号/无符号不匹配
+D:\postgraduate File\Codes_backup\CS_encryption&DOPRF\DOPRF.hpp(520,18): warning C4018: “<”: 有符号/无符号不匹配
+D:\postgraduate File\Codes_backup\CS_encryption&DOPRF\DOPRF.hpp(653,23): warning C4018: “<”: 有符号/无符号不匹配
+D:\postgraduate File\Codes_backup\CS_encryption&DOPRF\DOPRF.hpp(777,23): warning C4018: “<”: 有符号/无符号不匹配
+D:\postgraduate File\Codes_backup\CS_encryption&DOPRF\DOPRF.hpp(787,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\postgraduate File\Codes_backup\CS_encryption&DOPRF\DOPRF.hpp(800,27): warning C4018: “<”: 有符号/无符号不匹配
+D:\postgraduate File\Codes_backup\CS_encryption&DOPRF\DOPRF.hpp(926,23): warning C4018: “<”: 有符号/无符号不匹配
+D:\postgraduate File\Codes_backup\CS_encryption&DOPRF\DOPRF.hpp(956,23): warning C4018: “<”: 有符号/无符号不匹配
+D:\postgraduate File\Codes_backup\CS_encryption&DOPRF\DOPRF.hpp(968,27): warning C4018: “<”: 有符号/无符号不匹配
+D:\postgraduate File\Codes_backup\CS_encryption&DOPRF\DOPRF.hpp(982,23): warning C4018: “<”: 有符号/无符号不匹配
+D:\postgraduate File\Codes_backup\CS_encryption&DOPRF\DOPRF.hpp(1006,27): warning C4018: “<”: 有符号/无符号不匹配
+D:\postgraduate File\Codes_backup\CS_encryption&DOPRF\DOPRF.hpp(1038,27): warning C4018: “<”: 有符号/无符号不匹配
+D:\postgraduate File\Codes_backup\CS_encryption&DOPRF\DOPRF.hpp(1048,27): warning C4018: “<”: 有符号/无符号不匹配
+D:\postgraduate File\Codes_backup\CS_encryption&DOPRF\DOPRF.hpp(1016,16): warning C4102: “NTL”: 未引用的标签
+D:\postgraduate File\Codes_backup\CS_encryption&DOPRF\DOPRF.hpp(1135,23): warning C4018: “<”: 有符号/无符号不匹配
+D:\postgraduate File\Codes_backup\CS_encryption&DOPRF\DOPRF.hpp(1167,27): warning C4018: “<”: 有符号/无符号不匹配
+D:\postgraduate File\Codes_backup\CS_encryption&DOPRF\DOPRF.hpp(1183,23): warning C4018: “<”: 有符号/无符号不匹配
+D:\postgraduate File\Codes_backup\CS_encryption&DOPRF\DOPRF.hpp(1221,23): warning C4018: “<”: 有符号/无符号不匹配
+D:\postgraduate File\Codes_backup\CS_encryption&DOPRF\DOPRF.hpp(1236,23): warning C4018: “<”: 有符号/无符号不匹配
+D:\postgraduate File\Codes_backup\CS_encryption&DOPRF\DOPRF.hpp(1249,23): warning C4018: “<”: 有符号/无符号不匹配
+D:\postgraduate File\Codes_backup\CS_encryption&DOPRF\test.cpp(87,23): warning C4018: “<”: 有符号/无符号不匹配
+D:\postgraduate File\Codes_backup\CS_encryption&DOPRF\routines.hpp(257): warning C4700: 使用了未初始化的局部变量“i”
+  Camenisch-shoup.vcxproj -> D:\postgraduate File\Codes_backup\CS_encryption&DOPRF\Debug\Camenisch-shoup.exe
