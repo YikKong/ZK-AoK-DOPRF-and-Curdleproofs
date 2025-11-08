@@ -1,2 +1,1 @@
 OpenSSL & NTL library
-Windows
